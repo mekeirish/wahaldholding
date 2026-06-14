@@ -1,2 +1,7 @@
 # wahaldholding
-Created by Hubcode — 2026-06-14
+
+> Créé avec Hubcode — The Code Suite
+
+## 🚀 Prêt pour le déploiement PWA
+
+Ce repository est configuré avec GitHub Pages activé.
